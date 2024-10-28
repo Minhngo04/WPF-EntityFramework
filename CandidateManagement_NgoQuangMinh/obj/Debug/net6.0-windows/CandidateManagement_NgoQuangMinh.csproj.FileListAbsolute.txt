@@ -72,3 +72,4 @@ D:\FPT Document\PRN212_Lesson\2\PRN221PE_FA22_TrialTest_NgoQuangMinh\CandidateMa
 D:\FPT Document\PRN212_Lesson\2\PRN221PE_FA22_TrialTest_NgoQuangMinh\CandidateManagement_NgoQuangMinh\obj\Debug\net6.0-windows\SidebarHeaderWindow.g.cs
 D:\FPT Document\PRN212_Lesson\2\PRN221PE_FA22_TrialTest_NgoQuangMinh\CandidateManagement_NgoQuangMinh\obj\Debug\net6.0-windows\SidebarHeaderWindow.baml
 D:\FPT Document\PRN212_Lesson\2\PRN221PE_FA22_TrialTest_NgoQuangMinh\CandidateManagement_NgoQuangMinh\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\FPT Document\PRN212_Lesson\2\PRN221PE_FA22_TrialTest_NgoQuangMinh\CandidateManagement_NgoQuangMinh\obj\Debug\net6.0-windows\CandidateManagement_NgoQuangMinh.sourcelink.json
